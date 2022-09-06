@@ -1,1 +1,7 @@
-
+:root {
+    --font-family-B: InterB, sans-serif;
+    --font-family-L: InterL, sans-serif;
+    --font-family-M: InterM, sans-serif;
+    --font-family-R: InterR, sans-serif;
+    --font-family-S-B: InterS-B, sans-serif;
+}
