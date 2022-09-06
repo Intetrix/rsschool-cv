@@ -1,3 +1,5 @@
 
 # Tanya Sevko
-## Future Front-end developer
+### Future front-end developer
+
+## About me
