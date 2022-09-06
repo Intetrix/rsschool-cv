@@ -1,0 +1,48 @@
+@font-face {
+    font-family: InterB;
+    src: url('../fonts/Teko-Bold.ttf');
+}
+
+@font-face {
+    font-family: InterL;
+    src: url('../fonts/Teko-Light.ttf');
+}
+
+@font-face {
+    font-family: InterM;
+    src: url('../fonts/Teko-Medium.ttf');
+}
+
+@font-face {
+    font-family: InterR;
+    src: url('../fonts/Teko-Regular.ttf');
+}
+
+@font-face {
+    font-family: InterS-B;
+    src: url('../fonts/Teko-SemiBold.ttf');
+}
+
+:root {
+    --font-family-B: InterB, sans-serif;
+    --font-family-L: InterL, sans-serif;
+    --font-family-M: InterM, sans-serif;
+    --font-family-R: InterR, sans-serif;
+    --font-family-S-B: InterS-B, sans-serif;
+}
+
+* { 
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+    background: #ffffff;
+}
+
+.cv {
+    display: flex;
+}
