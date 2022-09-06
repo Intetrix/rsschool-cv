@@ -32,3 +32,24 @@ Doctor psychiatrist-narcologist
 * Figma
 * VS Code
 * Adobe Photoshop
+
+## Code Example
+```js
+                            const min_Age = 18;
+                            const userData = {
+                                name: 'Alex',
+                                age: 20,
+                                married: true,
+                                sex: 'male',
+                            }
+                            
+                            if (
+                                userData.age >= min_Age && 
+                                userData.sex === 'male' && 
+                                userData.married !== true) {
+                                console.log('Вам доступен контент');
+                            }
+                            else {
+                                console.log('Вам НЕ доступен контент');
+                            };
+```
