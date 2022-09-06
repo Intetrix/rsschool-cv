@@ -18,3 +18,8 @@ I liked my job, but I always wanted to try my hand at something else. At the mom
 **Gomel State Medical University**
 
 Doctor psychiatrist-narcologist
+
+## Languages
+**Russian -** native speaker
+
+**English -** A2-B1
