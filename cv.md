@@ -23,3 +23,12 @@ Doctor psychiatrist-narcologist
 **Russian -** native speaker
 
 **English -** A2-B1
+
+## Skills
+* HTML5
+* CSS3
+* JS basic
+* Git&Github
+* Figma
+* VS Code
+* Adobe Photoshop
