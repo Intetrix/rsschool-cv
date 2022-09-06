@@ -9,7 +9,12 @@ I liked my job, but I always wanted to try my hand at something else. At the mom
 
 ## Conact
 
-**Telegram:** <https://t.me/Intergalacticrider>
-**Github:** <https://github.com/Intetrix>
-**E-mail:** <taniasevko@yandex.by>
-**Location:** Belarus, Gomel
+- **Telegram:** <https://t.me/Intergalacticrider>
+- **Github:** <https://github.com/Intetrix>
+- **E-mail:** <taniasevko@yandex.by>
+- **Location:** Belarus, Gomel
+
+## Education
+**Gomel State Medical University**
+
+Doctor psychiatrist-narcologist
