@@ -5,3 +5,19 @@
     --font-family-R: InterR, sans-serif;
     --font-family-S-B: InterS-B, sans-serif;
 }
+
+* { 
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+    background: #ffffff;
+}
+
+.cv {
+    display: flex;
+}
