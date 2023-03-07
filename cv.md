@@ -27,8 +27,8 @@ Doctor psychiatrist-narcologist
 ## Skills
 * HTML5
 * CSS3
-* JS basic
 * Git&Github
+* JS Basic
 * Figma
 * VS Code
 * Adobe Photoshop
